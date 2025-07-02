@@ -40,9 +40,9 @@ The model is trained to classify between at least two fruits:
 ---
 
 ## 📸 Screenshots
-![preview](Apple-TM.png)
-![preview](Orange-TM.png)
-![preview](predict-summary.png)
+![preview](screenshoots/Apple-TM.png)
+![preview](screenshoots/Orange-TM.png)
+![preview](screenshoots/predict-summary.png)
 
 ---
 
