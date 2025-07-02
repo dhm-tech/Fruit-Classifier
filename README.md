@@ -3,7 +3,7 @@ This project is a simple image classification tool that detects types of fruits 
 
 ---
 
-##🎯 Project Goal  
+## 🎯 Project Goal  
 Learn how to:
 
 - Train a custom image classification model using Teachable Machine  
@@ -14,7 +14,7 @@ Learn how to:
 
 ---
 
-📦 Tools & Technologies  
+## 📦 Tools & Technologies  
 - Google Teachable Machine (Image Project)  
 - TensorFlow / Keras  
 - Python (PIL, NumPy)  
@@ -23,7 +23,7 @@ Learn how to:
 
 ---
 
-🧠 Classes Used  
+## 🧠 Classes Used  
 The model is trained to classify between at least two fruits:
 
 - Apple  
@@ -33,5 +33,17 @@ The model is trained to classify between at least two fruits:
 
 ---
 
-📂 Folder Structure
+## 🧪 How It Works  
+1. Load the model and labels  
+2. Preprocess the image to 224x224 and normalize  
+3. Predict the class with confidence score  
+4. Print the result or run on a batch of images
 
+---
+
+## 📸 Screenshots
+
+
+## 👤 Author
+Designed by: [Abdulrahman Qutah]
+Date: [2 July 2025]
