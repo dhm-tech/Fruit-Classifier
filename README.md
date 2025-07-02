@@ -29,8 +29,6 @@ The model is trained to classify between at least two fruits:
 - Apple  
 - Orange  
 
-(You can extend to more classes like Banana, Kiwi, etc.)
-
 ---
 
 ## 🧪 How It Works  
