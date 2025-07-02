@@ -43,7 +43,8 @@ The model is trained to classify between at least two fruits:
 
 ## 📸 Screenshots
 
+---
 
 ## 👤 Author
-Designed by: [Abdulrahman Qutah]
-Date: [2 July 2025]
+> Designed by: [Abdulrahman Qutah]  
+> Date: [2 Jul 2025]
